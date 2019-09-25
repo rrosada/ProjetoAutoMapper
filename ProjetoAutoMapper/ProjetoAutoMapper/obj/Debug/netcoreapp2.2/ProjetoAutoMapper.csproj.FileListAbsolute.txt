@@ -1,0 +1,10 @@
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\bin\Debug\netcoreapp2.2\ProjetoAutoMapper.deps.json
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\bin\Debug\netcoreapp2.2\ProjetoAutoMapper.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\bin\Debug\netcoreapp2.2\ProjetoAutoMapper.runtimeconfig.dev.json
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\bin\Debug\netcoreapp2.2\ProjetoAutoMapper.dll
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\obj\Debug\netcoreapp2.2\ProjetoAutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\obj\Debug\netcoreapp2.2\ProjetoAutoMapper.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\obj\Debug\netcoreapp2.2\ProjetoAutoMapper.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\bin\Debug\netcoreapp2.2\ProjetoAutoMapper.pdb
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\obj\Debug\netcoreapp2.2\ProjetoAutoMapper.dll
+C:\Users\logonrmlocal\source\repos\ProjetoAutoMapper\ProjetoAutoMapper\obj\Debug\netcoreapp2.2\ProjetoAutoMapper.pdb
